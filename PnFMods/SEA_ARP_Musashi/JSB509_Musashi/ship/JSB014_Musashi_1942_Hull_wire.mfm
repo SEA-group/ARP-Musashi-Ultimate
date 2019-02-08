@@ -1,0 +1,14 @@
+<JSB014_Musashi_1942_Hull_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/default_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Wire.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/default_n.dds	</Texture>
+	</property>
+</JSB014_Musashi_1942_Hull_wire.mfm>

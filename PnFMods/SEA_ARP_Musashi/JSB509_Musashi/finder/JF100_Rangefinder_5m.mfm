@@ -1,0 +1,17 @@
+<JF100_Rangefinder_5m.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF100_Rangefinder_5m_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF100_Rangefinder_5m_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF100_Rangefinder_5m_n.dds	</Texture>
+	</property>
+</JF100_Rangefinder_5m.mfm>

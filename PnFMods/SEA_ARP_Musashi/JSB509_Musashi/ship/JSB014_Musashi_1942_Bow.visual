@@ -1,1 +1,335 @@
-<JSB014_Musashi_1942_Bow.visual><boundingBox><min>-1.186849 -0.862549 -0.545610</min><max>1.212971 2.313162 8.941600</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Bow</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Bow_Net</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Bow_crack_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Bow_crack_MidFront_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Bow_crack_MidFront_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Bow_patch_MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Bow_patch_MidFront_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Bow_patch_MidFront_wire</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Bow_wire</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Bow_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow</node><geometry><vertices>BowShape.vertices</vertices><primitive>BowShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GravLens</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/2ce59198dc883f70e5577b2aea1eb187.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_GravLens</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/2ce59198dc883f70e5577b2aea1eb187.mfm</mfm></material></primitiveGroup><primitiveGroup>2<material><identifier>SHIPMAT_PBS_TorpTube</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/50e0a823139e01f3ad019d0039cbc46e.mfm</mfm></material></primitiveGroup><primitiveGroup>3<material><identifier>SHIPMAT_PBS_TorpTube</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/50e0a823139e01f3ad019d0039cbc46e.mfm</mfm></material></primitiveGroup><primitiveGroup>4<material><identifier>SHIPMAT_PBS_Mecha</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/006e4b85093001a60f99e1b9bbff9157.mfm</mfm></material></primitiveGroup><primitiveGroup>5<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>6<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>7<material><identifier>SHIPMAT_PBS_WireAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/904eba118e86f1ec92813f1a4407a903.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_Net</node><geometry><vertices>Bow_NetShape.vertices</vertices><primitive>Bow_NetShape.indices</primitive><primitiveGroup>0<material><identifier>GRID_Misc</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/a3c29b633e560119e98af24cc24dbbb3.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_crack_MidFront</node><geometry><vertices>Bow_crack_MidFrontShape.vertices</vertices><primitive>Bow_crack_MidFrontShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_crack_MidFront_in</node><geometry><vertices>Bow_crack_MidFront_inShape.vertices</vertices><primitive>Bow_crack_MidFront_inShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/e820db8bfa62b560e18fd42a4cd6cdcd.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_crack_MidFront_DeckHouse</node><geometry><vertices>Bow_crack_MidFront_DeckHouseShape.vertices</vertices><primitive>Bow_crack_MidFront_DeckHouseShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bdc74fb56de32981d660470ef9016f23.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_patch_MidFront</node><geometry><vertices>Bow_patch_MidFrontShape.vertices</vertices><primitive>Bow_patch_MidFrontShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>2<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>3<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>4<material><identifier>SHIPMAT_PBS_HullX</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bb51a6122f9b43c64cbab05d54f39344.mfm</mfm></material></primitiveGroup><primitiveGroup>5<material><identifier>SHIPMAT_PBS_WireAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/904eba118e86f1ec92813f1a4407a903.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_patch_MidFront_DeckHouse</node><geometry><vertices>Bow_patch_MidFront_DeckHouseShape.vertices</vertices><primitive>Bow_patch_MidFront_DeckHouseShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bdc74fb56de32981d660470ef9016f23.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_Mecha</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/006e4b85093001a60f99e1b9bbff9157.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_patch_MidFront_wire</node><geometry><vertices>Bow_patch_MidFront_wireShape.vertices</vertices><primitive>Bow_patch_MidFront_wireShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPWIRE_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_wire</node><geometry><vertices>Bow_wireShape.vertices</vertices><primitive>Bow_wireShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPWIRE_PBS_Hull</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Bow_DeckHouse</node><geometry><vertices>Bow_DeckHouseShape.vertices</vertices><primitive>Bow_DeckHouseShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouseAF</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/bdc74fb56de32981d660470ef9016f23.mfm</mfm></material></primitiveGroup><primitiveGroup>1<material><identifier>SHIPMAT_PBS_GravLens</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/2ce59198dc883f70e5577b2aea1eb187.mfm</mfm></material></primitiveGroup><primitiveGroup>2<material><identifier>SHIPMAT_PBS_Inner</identifier><mfm>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/3d1b11ce641335dbeb88ad1270ffded2.mfm</mfm></material></primitiveGroup></geometry></renderSet></JSB014_Musashi_1942_Bow.visual>
+<JSB014_Musashi_1942_Bow.visual>
+	<boundingBox>
+		<min>	-1.186849 -0.862549 -0.545610	</min>
+		<max>	1.212971 2.313162 8.941600	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Bow_Net	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_crack_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Bow_crack_MidFront_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_crack_MidFront_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Bow_patch_MidFront	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Bow_patch_MidFront_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Bow_patch_MidFront_wire	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Bow_wire	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Bow_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow	</node>
+		<geometry>
+			<vertices>	BowShape.vertices	</vertices>
+			<primitive>	BowShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GravLens	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_GravitonLens.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_GravLens	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_GravitonLens.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	2
+				<material>
+					<identifier>	SHIPMAT_PBS_TorpTube	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_TorpLauncher.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	3
+				<material>
+					<identifier>	SHIPMAT_PBS_TorpTube	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_TorpLauncher.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	4
+				<material>
+					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	5
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	6
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	7
+				<material>
+					<identifier>	SHIPMAT_PBS_WireAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_Net	</node>
+		<geometry>
+			<vertices>	Bow_NetShape.vertices	</vertices>
+			<primitive>	Bow_NetShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	GRID_Misc	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/C005_Grid_2_alpha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFrontShape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFrontShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront_in	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_inShape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_crack_MidFront_DeckHouse	</node>
+		<geometry>
+			<vertices>	Bow_crack_MidFront_DeckHouseShape.vertices	</vertices>
+			<primitive>	Bow_crack_MidFront_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFrontShape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFrontShape.indices	</primitive>			
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	2
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	3
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	4
+				<material>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	5
+				<material>
+					<identifier>	SHIPMAT_PBS_WireAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront_DeckHouse	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_DeckHouseShape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_patch_MidFront_wire	</node>
+		<geometry>
+			<vertices>	Bow_patch_MidFront_wireShape.vertices	</vertices>
+			<primitive>	Bow_patch_MidFront_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_wire	</node>
+		<geometry>
+			<vertices>	Bow_wireShape.vertices	</vertices>
+			<primitive>	Bow_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bow_DeckHouse	</node>
+		<geometry>
+			<vertices>	Bow_DeckHouseShape.vertices	</vertices>
+			<primitive>	Bow_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_GravLens	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_GravitonLens.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	2
+				<material>
+					<identifier>	SHIPMAT_PBS_Inner	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Inner.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JSB014_Musashi_1942_Bow.visual>

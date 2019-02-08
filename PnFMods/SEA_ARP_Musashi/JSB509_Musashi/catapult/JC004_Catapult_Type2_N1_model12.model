@@ -1,1 +1,8 @@
-<JC004_Catapult_Type2_N1_model12.model><exporter>1.6</exporter><parent>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/catapult/JC004_Catapult_Type2_N1_model12_lod1</parent><extent>3.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/catapult/JC004_Catapult_Type2_N1_model12</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JC004_Catapult_Type2_N1_model12.model>
+<JC004_Catapult_Type2_N1_model12.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/catapult/JC004_Catapult_Type2_N1_model12_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/catapult/JC004_Catapult_Type2_N1_model12	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JC004_Catapult_Type2_N1_model12.model>

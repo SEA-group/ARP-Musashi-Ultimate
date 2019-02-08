@@ -1,1 +1,9 @@
-<JAS006_Aichi_E16A1_lod2.model><exporter>1.6</exporter><parent>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/aircraft/JAS006_Aichi_E16A1_lod3</parent><extent>40.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_ARP_Musashi/JSB509_Musashi/aircraft/JAS006_Aichi_E16A1_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JAS006_Aichi_E16A1_lod2.model>
+<JAS006_Aichi_E16A1_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/aircraft/JAS006_Aichi_E16A1_lod3	</parent>
+	<extent>	40.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/aircraft/JAS006_Aichi_E16A1_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAS006_Aichi_E16A1_lod2.model>
