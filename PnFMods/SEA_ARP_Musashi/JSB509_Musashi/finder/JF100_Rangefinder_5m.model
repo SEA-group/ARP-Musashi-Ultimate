@@ -2,7 +2,7 @@
 	<exporter>	1.6	</exporter>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF100_Rangefinder_5m_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/lods/JF100_Rangefinder_5m_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF100_Rangefinder_5m	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JF100_Rangefinder_5m.model>

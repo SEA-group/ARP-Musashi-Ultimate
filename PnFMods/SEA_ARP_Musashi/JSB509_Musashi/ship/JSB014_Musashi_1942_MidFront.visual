@@ -20,6 +20,33 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	MidFront_GravLens	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Mecha2_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Mecha2_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_glass	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -48,9 +75,9 @@
 				<node>
 					<identifier>	MidFront_crack_Bow_wire	</identifier>
 					<transform>
-						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
@@ -84,9 +111,9 @@
 				<node>
 					<identifier>	MidFront_patch_MidBack_wire	</identifier>
 					<transform>
-						<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 					</transform>
 				</node>
@@ -139,9 +166,9 @@
 			<node>
 				<identifier>	MidFront_wire	</identifier>
 				<transform>
-					<row0>	0.000001 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.000001 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.000001 0.000000	</row2>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 				</transform>
 			</node>
@@ -155,20 +182,50 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
+					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Mecha2_1	</node>
+		<geometry>
+			<vertices>	SEA_Mecha2_1.vertices	</vertices>
+			<primitive>	SEA_Mecha2_1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Mecha	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Mecha2_2	</node>
+		<geometry>
+			<vertices>	SEA_Mecha2_2.vertices	</vertices>
+			<primitive>	SEA_Mecha2_2.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
+					<identifier>	SHIPMATX_PBS_Mecha	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	2
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_GravLens	</node>
+		<geometry>
+			<vertices>	SEA_GravLens.vertices	</vertices>
+			<primitive>	SEA_GravLens.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
+					<identifier>	SHIPMATX_PBS_GravLens	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_GravitonLens.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -196,7 +253,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm	</mfm>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -265,20 +322,8 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Mecha	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Mecha.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	2
-				<material>
-					<identifier>	SHIPMAT_PBS_WireAF	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Wire.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -309,12 +354,6 @@
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_GravLens	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_GravitonLens.mfm	</mfm>
-				</material>
-			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -326,7 +365,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/Does_Not_Exist.mfm	</mfm>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -369,12 +408,6 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_WireAF	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

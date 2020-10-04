@@ -1,7 +1,7 @@
 <JGA004_25mm_Type96_Triple_1.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGA004_25mm_Type96_Triple_1_lod1	</parent>
+	<parent>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/lods/JGA004_25mm_Type96_Triple_1_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.119161 -0.002129 -0.119963	</min>
