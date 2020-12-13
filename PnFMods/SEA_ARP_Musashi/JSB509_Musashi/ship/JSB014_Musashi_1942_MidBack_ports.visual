@@ -403,87 +403,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM008_Searchlight	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	-1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.2729 1.2462 -1.2308 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	-1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.2729 1.2462 -1.5634 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	-1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.2729 1.0688 -0.9656 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_3	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.5980 0.0000	</row0>
-					<row1>	0.0000 1.5980 0.0000 0.0000	</row1>
-					<row2>	-1.5980 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.2729 1.0688 -1.8650 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_4	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.2729 1.2462 -1.5634 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_5	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.2729 1.2462 -1.2308 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_6	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.5976 0.0000	</row0>
-					<row1>	0.0000 1.5976 0.0000 0.0000	</row1>
-					<row2>	1.5976 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.2729 1.0688 -0.9656 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM008_Searchlight_INDEX_7	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.5980 0.0000	</row0>
-					<row1>	0.0000 1.5980 0.0000 0.0000	</row1>
-					<row2>	1.5980 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.2729 1.0688 -1.8650 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM009_Signal_Lamp	</identifier>
-				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	0.0000 1.7066 -2.0843 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM058_Deck_Hatch_7	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
@@ -877,24 +796,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
 					<row3>	0.3740 0.6872 -2.9029 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM385_Director_Type_98_Mod1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -0.8500 0.0000	</row0>
-					<row1>	0.0000 0.8500 0.0000 0.0000	</row1>
-					<row2>	0.8500 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.2153 1.3801 -2.3947 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM385_Director_Type_98_Mod1_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 0.8500 0.0000	</row0>
-					<row1>	0.0000 0.8500 0.0000 0.0000	</row1>
-					<row2>	-0.8500 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.2153 1.3800 -2.3947 1.0000	</row3>
 				</transform>
 			</node>
 		</node>

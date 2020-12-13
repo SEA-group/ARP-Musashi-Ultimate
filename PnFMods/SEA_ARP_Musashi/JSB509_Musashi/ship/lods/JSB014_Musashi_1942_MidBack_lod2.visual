@@ -29,6 +29,33 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	JM009_Signal_Lamp	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 1.7066 -2.0843 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JTB1512	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.3800 -2.3947 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JTB1523	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.1575 -1.4062 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Mecha3	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -175,6 +202,48 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JM009_Signal_Lamp	</node>
+		<geometry>
+			<vertices>	JM009_Signal_Lamp.vertices	</vertices>
+			<primitive>	JM009_Signal_Lamp.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_JM009	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/misc/JM009_Signal_Lamp.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JTB1512	</node>
+		<geometry>
+			<vertices>	JTB1512.vertices	</vertices>
+			<primitive>	JTB1512.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_JD099	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/misc/JD099_Director_Type_98_10m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JTB1523	</node>
+		<geometry>
+			<vertices>	JTB1523.vertices	</vertices>
+			<primitive>	JTB1523.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_JM008	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/misc/JM008_Searchlight.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

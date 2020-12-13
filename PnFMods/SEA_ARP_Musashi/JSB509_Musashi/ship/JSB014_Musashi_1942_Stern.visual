@@ -20,6 +20,33 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	JTB1527	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5786 -5.7233 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JM382_Crane	</identifier>
+				<transform>
+					<row0>	0.9966 0.0000 -0.0828 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0828 0.0000 0.9966 0.0000	</row2>
+					<row3>	0.0194 0.3998 -8.1262 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	JM382_Crane_wire	</identifier>
+				<transform>
+					<row0>	0.9966 0.0000 -0.0828 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0828 0.0000 0.9966 0.0000	</row2>
+					<row3>	0.0194 0.3998 -8.1262 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Stern_GravLens	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -121,6 +148,48 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JTB1527	</node>
+		<geometry>
+			<vertices>	JTB1527.vertices	</vertices>
+			<primitive>	JTB1527.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_JM066	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/misc/JM066_Aircraft_Deck_Rails.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JM382_Crane	</node>
+		<geometry>
+			<vertices>	JM382_Crane.vertices	</vertices>
+			<primitive>	JM382_Crane.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_JM382	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/misc/JM382_Crane.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	JM382_Crane_wire	</node>
+		<geometry>
+			<vertices>	JM382_Crane_wire.vertices	</vertices>
+			<primitive>	JM382_Crane_wire.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

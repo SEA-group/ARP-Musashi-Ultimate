@@ -169,24 +169,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM066_Aircraft_Deck_Rails	</identifier>
-				<transform>
-					<row0>	-0.0902 0.0000 -0.8754 0.0000	</row0>
-					<row1>	0.0000 0.8800 0.0000 0.0000	</row1>
-					<row2>	0.8754 0.0000 -0.0902 0.0000	</row2>
-					<row3>	0.8421 0.5786 -5.7233 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM066_Aircraft_Deck_Rails_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0902 0.0000 -0.8754 0.0000	</row0>
-					<row1>	0.0000 0.8800 0.0000 0.0000	</row1>
-					<row2>	0.8754 0.0000 0.0902 0.0000	</row2>
-					<row3>	-0.8421 0.5786 -5.7233 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
 				<transform>
 					<row0>	0.0000 0.0000 1.2704 0.0000	</row0>
@@ -238,15 +220,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.9885 0.0000 0.1515 0.0000	</row2>
 					<row3>	-1.0506 0.2445 -5.4146 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM382_Crane	</identifier>
-				<transform>
-					<row0>	0.9966 0.0000 -0.0828 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0828 0.0000 0.9966 0.0000	</row2>
-					<row3>	0.0194 0.3998 -8.1262 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
