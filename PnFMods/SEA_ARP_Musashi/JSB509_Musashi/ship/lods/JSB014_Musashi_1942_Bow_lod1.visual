@@ -155,7 +155,7 @@
 			<primitive>	Bow_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<identifier>	SHIPMATX_PBS_HullAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -239,7 +239,7 @@
 			<primitive>	Bow_patch_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<identifier>	SHIPMATX_PBS_HullAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -253,7 +253,7 @@
 			<primitive>	Bow_patch_MidFront_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -267,7 +267,7 @@
 			<primitive>	Bow_patch_MidFront_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -281,7 +281,7 @@
 			<primitive>	Bow_crack_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullAF	</identifier>
+					<identifier>	SHIPMATX_PBS_HullAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -295,7 +295,7 @@
 			<primitive>	Bow_crack_MidFront_in_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -309,7 +309,7 @@
 			<primitive>	Bow_crack_MidFront_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -337,7 +337,7 @@
 			<primitive>	Bow_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -351,7 +351,7 @@
 			<primitive>	Bow_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseAF	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>

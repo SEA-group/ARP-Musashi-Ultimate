@@ -47,7 +47,7 @@
 			<primitive>	Turret_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunAF	</identifier>
+					<identifier>	SHIPMATX_PBS_GunAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGA010_25mm_Type96.mfm	</mfm>
 				</material>
 			</primitiveGroup>

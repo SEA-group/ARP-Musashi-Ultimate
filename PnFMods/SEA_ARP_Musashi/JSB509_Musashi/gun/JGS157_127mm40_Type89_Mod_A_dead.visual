@@ -29,7 +29,7 @@
 			<primitive>	Turret_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadAF	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGS157_127mm40_Type89_Mod_A_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -56,7 +56,7 @@
 			<primitive>	Type93_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunAF	</identifier>
+					<identifier>	SHIPMATX_PBS_GunAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGA020_13mm76_Type93_double.mfm	</mfm>
 				</material>
 			</primitiveGroup>

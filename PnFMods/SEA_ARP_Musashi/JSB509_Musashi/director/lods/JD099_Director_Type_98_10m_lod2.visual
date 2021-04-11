@@ -83,7 +83,7 @@
 			<primitive>	Base_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/director/JD099_Director_Type_98_10m_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -97,7 +97,7 @@
 			<primitive>	Rotate_y_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/director/JD099_Director_Type_98_10m_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

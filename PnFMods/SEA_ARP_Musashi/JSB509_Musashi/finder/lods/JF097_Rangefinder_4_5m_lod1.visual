@@ -25,7 +25,7 @@
 			<primitive>	JF097_Rangefinder_4_5m_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/finder/JF097_Rangefinder_4_5m.mfm	</mfm>
 				</material>
 			</primitiveGroup>

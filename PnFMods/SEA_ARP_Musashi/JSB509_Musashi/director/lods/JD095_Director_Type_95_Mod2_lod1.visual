@@ -75,7 +75,7 @@
 			<primitive>	JD095_Director_Type_95_Mod2_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/director/JD095_Director_Type_95_Mod2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

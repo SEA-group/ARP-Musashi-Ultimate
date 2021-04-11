@@ -84,7 +84,7 @@
 			<primitive>	JD098_Director_Type_98_15mShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/director/JD098_Director_Type_98_15m_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

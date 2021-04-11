@@ -176,7 +176,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunAF	</identifier>
+					<identifier>	SHIPMATX_PBS_GunAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGS156_155mm_60_Type3_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

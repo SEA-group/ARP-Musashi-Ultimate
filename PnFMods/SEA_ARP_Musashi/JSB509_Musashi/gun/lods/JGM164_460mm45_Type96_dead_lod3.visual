@@ -38,7 +38,7 @@
 			<primitive>	Turret_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadAF	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadAF	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Musashi/JSB509_Musashi/gun/JGM164_460mm45_Type96_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
